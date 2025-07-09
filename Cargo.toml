@@ -1,0 +1,10 @@
+[package]
+name = "delete-dtishen"
+version = "0.1.0"
+edition = "2021"
+authors = ["你的名字 <your@email.com>"]
+description = "递归删除以'的替身'结尾的文件和目录，删除前询问用户。"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] } 
