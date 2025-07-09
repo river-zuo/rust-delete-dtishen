@@ -1,0 +1,16 @@
+# Rust build output
+/target/
+
+# Environment files
+.env
+
+# IDE/project config files
+*.iml
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.log
+*.bak
+*.tmp 
